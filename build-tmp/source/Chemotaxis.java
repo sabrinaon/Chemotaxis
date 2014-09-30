@@ -28,7 +28,7 @@ Bacteria [] colony;
  public void draw()   
  {    
  	//move and show the bacteria  
- 	fill(246,82,82);
+ 	fill(238,149,149);
  	rect(0, 0, 800, 800);
  	for(int i = 0; i < colony.length; i++)
  	{
